@@ -1,0 +1,21 @@
+bnv{
+	position:relative;
+	left:70%;
+	overflow:auto;
+	
+	}
+
+cnx{
+		
+	position:relative;
+	left:63%;
+	overflow:auto;
+}
+recherche{
+	position:relative;}
+
+body{
+	background-color:lightgreen;}
+html{
+	max-width: 100%;
+    	overflow-x: hidden;}

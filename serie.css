@@ -1,0 +1,12 @@
+@import url("header.css");
+article{
+	background-color:lightblue;
+	text-align:center;
+	    font-style: italic;}
+img{
+	width: 30%;
+	height: 30%;
+}
+
+titre{
+	font-color:red;}
